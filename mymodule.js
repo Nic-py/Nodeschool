@@ -18,7 +18,7 @@ module.exports = function (dir, filterStr, callback) {
 
 
 //system solution 
-const fs = require('fs')
+/* const fs = require('fs')
 const path = require('path')
 
 module.exports = function (dir, filterStr, callback) {
@@ -33,4 +33,4 @@ module.exports = function (dir, filterStr, callback) {
 
     callback(null, list)
   })
-}
+} */
